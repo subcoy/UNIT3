@@ -1,0 +1,26 @@
+li{
+    list-style: none;
+    
+}
+
+.player-profile{
+    border: 1px solid rgb(143, 143, 240);
+    background-color: aliceblue;
+    margin: 20px;
+     
+}
+
+img,h4{
+    width: 90px;
+    text-align: center;
+}
+
+.button{
+
+    border-color: rgb(94, 71, 29);
+    margin: 20px;
+}
+
+p{ text-align: justify;
+
+    }
